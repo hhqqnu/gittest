@@ -1,0 +1,21 @@
+{
+  "name": "part2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Person.js",
+  "scripts": {
+    "watch": "webpack --watch --d --display-error-details --process"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "moment": "^2.10.6",
+    "webpack": "^1.12.0"
+  },
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}
