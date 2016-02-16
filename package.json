@@ -1,0 +1,19 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "Git is a version control system. Git is free software. Git has a mutable index called stage. Git branch 查看分支 git branch 创建分支 git branch <name> 切换分支 git checkout <name> 创建和切换分支 git branch -b <name> 合并分支 git merge <name> 删除分支 git branch -d <name>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhqqnu/gittest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hhqqnu/gittest/issues"
+  },
+  "homepage": "https://github.com/hhqqnu/gittest#readme"
+}
